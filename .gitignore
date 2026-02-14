@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+
+# Dataset & models
+dataset/
+models/
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# Logs / temp
+*.log
+*.tmp
