@@ -1,4 +1,4 @@
-# ATLAS – AIMS Gesture Controlled Drone System
+ Gesture Controlled Drone System
 
 ATLAS (AIMS Landmarked Autonomous System) is a real-time, gesture-controlled drone simulation framework built on computer vision, geometric feature engineering, and machine learning. A webcam + MediaPipe extract hand landmarks; a lightweight MLP classifies gestures and drives a virtual drone via a deterministic control stack.
 
@@ -7,7 +7,7 @@ ATLAS (AIMS Landmarked Autonomous System) is a real-time, gesture-controlled dro
 - **Mode 2 – Advanced Temporal Control** (architected, not yet active)
 
 ## System Architecture
-ATLAS follows a layered perception → decision → control → simulation pipeline:
+System follows a layered perception → decision → control → simulation pipeline:
 
 ```
 Webcam
